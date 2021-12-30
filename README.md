@@ -54,7 +54,7 @@ Various techniques have been developed to extract text successfully from images,
 
 _For detailed explaination, please refer to the [Documentation]https://github.com/Kowshal19BCE1396/CBIVR-JComponent/tree/master/Documents
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right"><a href="#top">Back to Top</a></p>
 
 
 
@@ -63,7 +63,7 @@ _For detailed explaination, please refer to the [Documentation]https://github.co
 * [Python](https://www.python.org/)
 * [Jupyter](https://jupyter.org/install)
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right"><a href="#top">Back to Top</a></p>
 
 
 <!-- GETTING STARTED -->
