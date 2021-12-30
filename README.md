@@ -52,7 +52,7 @@
 
 Various techniques have been developed to extract text successfully from images, the most famous being OCR. This project on font detection is intended to benefit various creaters that need to identify fonts suggestions from images or posters. Automatic font identification and similar font suggestion from an image or photo has been on the wish list of many designers. We want to take a step further to exploit the usage of OCR to predict the font used in images using deep learning techniques with python.
 
-_For detailed explaination, please refer to the [Documentation](https://github.com/Kowshal19BCE1396/CBIVR-JComponent/tree/master/Documents)_
+_For detailed explaination, please refer to the [Documentation]https://github.com/Kowshal19BCE1396/CBIVR-JComponent/tree/master/Documents
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -71,7 +71,7 @@ _For detailed explaination, please refer to the [Documentation](https://github.c
 
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
-<p align="right">(<a href="#Prerequisites">Here</a>)</p>
+<p align="right"><a href="#Prerequisites">Here</a></p>
 
 ### Prerequisites
 
@@ -103,12 +103,12 @@ The prerequisites for the project are:
    ```sh
    git clone https://github.com/Kowshal19BCE1396/CBIVR-JComponent.git
    ```
-2. The Dataset is also provided in [Dataset](https://github.com/Kowshal19BCE1396/CBIVR-JComponent/tree/master/Dataset)
-3. You can also have a look at the [References](https://github.com/Kowshal19BCE1396/CBIVR-JComponent/tree/master/References) section to view the other papers
+2. The Dataset is also provided in [Dataset]https://github.com/Kowshal19BCE1396/CBIVR-JComponent/tree/master/Dataset
+3. You can also have a look at the [References]https://github.com/Kowshal19BCE1396/CBIVR-JComponent/tree/master/References section to view the other papers
 
 <p align="right">(<a href="#top">Back To Top</a>)</p>
 
 ## Acknowledgments
 
 While relying upon the learning furthest reaches of CNN, we need to fight the dumbfound between available planning and testing data. The introduction of SCAE-based space adaption helps our pre-arranged model with achieving a higher than 80% top-5 accuracy. A unique lossless model tension is also applied to propel the model accumulating efficiency. The DeepFont system not only is convincing for text style affirmation, but can moreover convey a text style similarity measure for text style assurance and thought.
-<p align="right">(<a href="#Prerequisites">Implementations</a>)</p>
+<p align="right"><a href="#Prerequisites">Implementations</a></p>
