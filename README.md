@@ -71,7 +71,7 @@ _For detailed explaination, please refer to the [Documentation]https://github.co
 
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
-<p align="right"><a href="#Prerequisites">Here</a></p>
+<p align="left"><a href="#Prerequisites">Prerequisites</a></p>
 
 ### Prerequisites
 
@@ -106,7 +106,7 @@ The prerequisites for the project are:
 2. The Dataset is also provided in [Dataset]https://github.com/Kowshal19BCE1396/CBIVR-JComponent/tree/master/Dataset
 3. You can also have a look at the [References]https://github.com/Kowshal19BCE1396/CBIVR-JComponent/tree/master/References section to view the other papers
 
-<p align="right">(<a href="#top">Back To Top</a>)</p>
+<p align="right"><a href="#top">Back To Top</a></p>
 
 ## Acknowledgments
 
