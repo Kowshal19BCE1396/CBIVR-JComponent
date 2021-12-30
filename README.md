@@ -54,7 +54,7 @@ Various techniques have been developed to extract text successfully from images,
 
 _For detailed explaination, please refer to the [Documentation](https://github.com/Kowshal19BCE1396/CBIVR-JComponent/tree/master/Documents)_
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right"><a href="#top">Back To Top</a></p>
 
 
 
@@ -63,7 +63,7 @@ _For detailed explaination, please refer to the [Documentation](https://github.c
 * [Python](https://www.python.org/)
 * [Jupyter](https://jupyter.org/install)
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right"><a href="#top">Back To Top</a></p>
 
 
 <!-- GETTING STARTED -->
@@ -71,7 +71,8 @@ _For detailed explaination, please refer to the [Documentation](https://github.c
 
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
-<p align="right">(<a href="#Prerequisites">Here</a>)</p>
+  
+<p align="right"><a href="#top">Back To Top</a></p>
 
 ### Prerequisites
 
@@ -103,12 +104,16 @@ The prerequisites for the project are:
    ```sh
    git clone https://github.com/Kowshal19BCE1396/CBIVR-JComponent.git
    ```
-2. The Dataset is also provided in [Dataset](https://github.com/Kowshal19BCE1396/CBIVR-JComponent/tree/master/Dataset)_
-3. You can also have a look at the [References](https://github.com/Kowshal19BCE1396/CBIVR-JComponent/tree/master/References)_ section to view the other papers
+2. The Dataset is also provided in [Dataset](https://github.com/Kowshal19BCE1396/CBIVR-JComponent/tree/master/Dataset)
+3. You can also have a look at the [References](https://github.com/Kowshal19BCE1396/CBIVR-JComponent/tree/master/References) section to view the other papers
 
-<p align="right">(<a href="#top">Back To Top</a>)</p>
+<p align="right"><a href="#top">Back To Top</a></p>
+  
 
 ## Acknowledgments
 
 While relying upon the learning furthest reaches of CNN, we need to fight the dumbfound between available planning and testing data. The introduction of SCAE-based space adaption helps our pre-arranged model with achieving a higher than 80% top-5 accuracy. A unique lossless model tension is also applied to propel the model accumulating efficiency. The DeepFont system not only is convincing for text style affirmation, but can moreover convey a text style similarity measure for text style assurance and thought.
-<p align="right">(<a href="#Prerequisites">Here</a>)</p>
+
+
+ 
+<p align="right"><a href="#Prerequisites">Implementation</a></p>
